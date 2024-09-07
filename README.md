@@ -27,15 +27,11 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **learning python, javascript, typescript and git.**
 
-- 👨‍💻 All of my projects are available at [https://lukaspapcun.me](https://lukaspapcun.me)
-
-- 📝 I regularly write articles on [https://lukaspapcun.me](https://lukaspapcun.me)
+- 👨‍💻 All of my projects are available here
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **lukas.papcun@student.spseke.sk**
-
-- 📄 Know about my experiences [https://lukaspapcun.me](https://lukaspapcun.me)
 
 - ⚡ Fun fact **I love learning, studying and creating new things.**
 
